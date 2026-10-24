@@ -1,0 +1,266 @@
+{
+  "name": "Fancode Live Matches Data in Json",
+  "telegram": "t.me/sportlink10",
+  "last update time": "08:40:39 AM 24-10-2026",
+  "matches": [
+    {
+      "category": "Cricket",
+      "title": "New South Wales Vs Western Australia",
+      "tournament": "Cricket",
+      "match_id": "4249282",
+      "status": "LIVE",
+      "startTime": "",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://dai-fancode.pages.dev/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-plive.fancode.com/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/240p.m3u8?hdntl=Expires=1792907463~_GO=Generated~acl=/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_338aa16d-a58a-40~Signature=ASgJGVBGFCrmtF0p2wWxRiwqNG6TrHOHEGm7_ViwN-B5_j8c1D5YUpd-o3it3qm2_42yEwLv6vfEDz5G4FxOynvAX6MB",
+            "360p": "https://in-mc-plive.fancode.com/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/360p.m3u8?hdntl=Expires=1792907463~_GO=Generated~acl=/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_338aa16d-a58a-40~Signature=ASgJGVBGFCrmtF0p2wWxRiwqNG6TrHOHEGm7_ViwN-B5_j8c1D5YUpd-o3it3qm2_42yEwLv6vfEDz5G4FxOynvAX6MB",
+            "480p": "https://in-mc-plive.fancode.com/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/480p.m3u8?hdntl=Expires=1792907463~_GO=Generated~acl=/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_338aa16d-a58a-40~Signature=ASgJGVBGFCrmtF0p2wWxRiwqNG6TrHOHEGm7_ViwN-B5_j8c1D5YUpd-o3it3qm2_42yEwLv6vfEDz5G4FxOynvAX6MB",
+            "540p": "https://in-mc-plive.fancode.com/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/540p.m3u8?hdntl=Expires=1792907463~_GO=Generated~acl=/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_338aa16d-a58a-40~Signature=ASgJGVBGFCrmtF0p2wWxRiwqNG6TrHOHEGm7_ViwN-B5_j8c1D5YUpd-o3it3qm2_42yEwLv6vfEDz5G4FxOynvAX6MB",
+            "720p": "https://in-mc-plive.fancode.com/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/720p.m3u8?hdntl=Expires=1792907463~_GO=Generated~acl=/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_338aa16d-a58a-40~Signature=ASgJGVBGFCrmtF0p2wWxRiwqNG6TrHOHEGm7_ViwN-B5_j8c1D5YUpd-o3it3qm2_42yEwLv6vfEDz5G4FxOynvAX6MB",
+            "1080p": "https://in-mc-plive.fancode.com/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792907463~_GO=Generated~acl=/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_338aa16d-a58a-40~Signature=ASgJGVBGFCrmtF0p2wWxRiwqNG6TrHOHEGm7_ViwN-B5_j8c1D5YUpd-o3it3qm2_42yEwLv6vfEDz5G4FxOynvAX6MB"
+          },
+          "cookie": "hdntl=Expires=1792907463~_GO=Generated~acl=/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_338aa16d-a58a-40~Signature=ASgJGVBGFCrmtF0p2wWxRiwqNG6TrHOHEGm7_ViwN-B5_j8c1D5YUpd-o3it3qm2_42yEwLv6vfEDz5G4FxOynvAX6MB",
+          "expires": "1792907463",
+          "expire_date": ""
+        }
+      },
+      "headers": {
+        "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "Referer": "https://fancode.com/"
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Denmark Vs Kuwait",
+      "tournament": "Cricket",
+      "match_id": "4250339",
+      "status": "LIVE",
+      "startTime": "",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://dai-fancode.pages.dev/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-plive.fancode.com/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/240p.m3u8?hdntl=Expires=1792909803~_GO=Generated~acl=/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_ec7bfce8-a405-46~Signature=ASgJGVBLQJJVSuyvyv6aRDMF0znFhml4W5zJjqW1Xg2YbXcUgRQSIAWJ5B3Nibyu4VsE1cSMnsAkBsPZoJlzBSOOk8UJ",
+            "360p": "https://in-mc-plive.fancode.com/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/360p.m3u8?hdntl=Expires=1792909803~_GO=Generated~acl=/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_ec7bfce8-a405-46~Signature=ASgJGVBLQJJVSuyvyv6aRDMF0znFhml4W5zJjqW1Xg2YbXcUgRQSIAWJ5B3Nibyu4VsE1cSMnsAkBsPZoJlzBSOOk8UJ",
+            "480p": "https://in-mc-plive.fancode.com/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/480p.m3u8?hdntl=Expires=1792909803~_GO=Generated~acl=/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_ec7bfce8-a405-46~Signature=ASgJGVBLQJJVSuyvyv6aRDMF0znFhml4W5zJjqW1Xg2YbXcUgRQSIAWJ5B3Nibyu4VsE1cSMnsAkBsPZoJlzBSOOk8UJ",
+            "540p": "https://in-mc-plive.fancode.com/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/540p.m3u8?hdntl=Expires=1792909803~_GO=Generated~acl=/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_ec7bfce8-a405-46~Signature=ASgJGVBLQJJVSuyvyv6aRDMF0znFhml4W5zJjqW1Xg2YbXcUgRQSIAWJ5B3Nibyu4VsE1cSMnsAkBsPZoJlzBSOOk8UJ",
+            "720p": "https://in-mc-plive.fancode.com/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/720p.m3u8?hdntl=Expires=1792909803~_GO=Generated~acl=/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_ec7bfce8-a405-46~Signature=ASgJGVBLQJJVSuyvyv6aRDMF0znFhml4W5zJjqW1Xg2YbXcUgRQSIAWJ5B3Nibyu4VsE1cSMnsAkBsPZoJlzBSOOk8UJ",
+            "1080p": "https://in-mc-plive.fancode.com/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792909803~_GO=Generated~acl=/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_ec7bfce8-a405-46~Signature=ASgJGVBLQJJVSuyvyv6aRDMF0znFhml4W5zJjqW1Xg2YbXcUgRQSIAWJ5B3Nibyu4VsE1cSMnsAkBsPZoJlzBSOOk8UJ"
+          },
+          "cookie": "hdntl=Expires=1792909803~_GO=Generated~acl=/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_ec7bfce8-a405-46~Signature=ASgJGVBLQJJVSuyvyv6aRDMF0znFhml4W5zJjqW1Xg2YbXcUgRQSIAWJ5B3Nibyu4VsE1cSMnsAkBsPZoJlzBSOOk8UJ",
+          "expires": "1792909803",
+          "expire_date": ""
+        }
+      },
+      "headers": {
+        "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "Referer": "https://fancode.com/"
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Qatar Vs Kenya",
+      "tournament": "Cricket",
+      "match_id": "4250340",
+      "status": "LIVE",
+      "startTime": "",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://dai-fancode.pages.dev/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-plive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/240p.m3u8?hdntl=Expires=1792910223~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_cd3477bb-9f2d-40~Signature=ASgJGVBznuocIxN4YHlq8kFFK1Lg7g4tM6hnQTXG0ny3nbQxJvcQtkja_5GqjVWrjnqqoGPGLBqsFlzqiTkbSCLVLSwL",
+            "360p": "https://in-mc-plive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/360p.m3u8?hdntl=Expires=1792910223~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_cd3477bb-9f2d-40~Signature=ASgJGVBznuocIxN4YHlq8kFFK1Lg7g4tM6hnQTXG0ny3nbQxJvcQtkja_5GqjVWrjnqqoGPGLBqsFlzqiTkbSCLVLSwL",
+            "480p": "https://in-mc-plive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/480p.m3u8?hdntl=Expires=1792910223~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_cd3477bb-9f2d-40~Signature=ASgJGVBznuocIxN4YHlq8kFFK1Lg7g4tM6hnQTXG0ny3nbQxJvcQtkja_5GqjVWrjnqqoGPGLBqsFlzqiTkbSCLVLSwL",
+            "540p": "https://in-mc-plive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/540p.m3u8?hdntl=Expires=1792910223~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_cd3477bb-9f2d-40~Signature=ASgJGVBznuocIxN4YHlq8kFFK1Lg7g4tM6hnQTXG0ny3nbQxJvcQtkja_5GqjVWrjnqqoGPGLBqsFlzqiTkbSCLVLSwL",
+            "720p": "https://in-mc-plive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/720p.m3u8?hdntl=Expires=1792910223~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_cd3477bb-9f2d-40~Signature=ASgJGVBznuocIxN4YHlq8kFFK1Lg7g4tM6hnQTXG0ny3nbQxJvcQtkja_5GqjVWrjnqqoGPGLBqsFlzqiTkbSCLVLSwL",
+            "1080p": "https://in-mc-plive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792910223~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_cd3477bb-9f2d-40~Signature=ASgJGVBznuocIxN4YHlq8kFFK1Lg7g4tM6hnQTXG0ny3nbQxJvcQtkja_5GqjVWrjnqqoGPGLBqsFlzqiTkbSCLVLSwL"
+          },
+          "cookie": "hdntl=Expires=1792910223~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_cd3477bb-9f2d-40~Signature=ASgJGVBznuocIxN4YHlq8kFFK1Lg7g4tM6hnQTXG0ny3nbQxJvcQtkja_5GqjVWrjnqqoGPGLBqsFlzqiTkbSCLVLSwL",
+          "expires": "1792910223",
+          "expire_date": ""
+        }
+      },
+      "headers": {
+        "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "Referer": "https://fancode.com/"
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia Vs Ireland",
+      "tournament": "Cricket",
+      "match_id": "4250332",
+      "status": "LIVE",
+      "startTime": "",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://dai-fancode.pages.dev/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-plive.fancode.com/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/240p.m3u8?hdntl=Expires=1792911483~_GO=Generated~acl=/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_08a25fa0-82e3-4f~Signature=ASgJGVBsqB5HWgjiscc8774B_HIwUiDu54EBcRA2TIz4QezLtFlr5u2-TqxigeOMFHE2tQtN_qnPohw4KORLkhn9IL4J",
+            "360p": "https://in-mc-plive.fancode.com/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/360p.m3u8?hdntl=Expires=1792911483~_GO=Generated~acl=/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_08a25fa0-82e3-4f~Signature=ASgJGVBsqB5HWgjiscc8774B_HIwUiDu54EBcRA2TIz4QezLtFlr5u2-TqxigeOMFHE2tQtN_qnPohw4KORLkhn9IL4J",
+            "480p": "https://in-mc-plive.fancode.com/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/480p.m3u8?hdntl=Expires=1792911483~_GO=Generated~acl=/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_08a25fa0-82e3-4f~Signature=ASgJGVBsqB5HWgjiscc8774B_HIwUiDu54EBcRA2TIz4QezLtFlr5u2-TqxigeOMFHE2tQtN_qnPohw4KORLkhn9IL4J",
+            "540p": "https://in-mc-plive.fancode.com/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/540p.m3u8?hdntl=Expires=1792911483~_GO=Generated~acl=/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_08a25fa0-82e3-4f~Signature=ASgJGVBsqB5HWgjiscc8774B_HIwUiDu54EBcRA2TIz4QezLtFlr5u2-TqxigeOMFHE2tQtN_qnPohw4KORLkhn9IL4J",
+            "720p": "https://in-mc-plive.fancode.com/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/720p.m3u8?hdntl=Expires=1792911483~_GO=Generated~acl=/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_08a25fa0-82e3-4f~Signature=ASgJGVBsqB5HWgjiscc8774B_HIwUiDu54EBcRA2TIz4QezLtFlr5u2-TqxigeOMFHE2tQtN_qnPohw4KORLkhn9IL4J",
+            "1080p": "https://in-mc-plive.fancode.com/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792911483~_GO=Generated~acl=/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_08a25fa0-82e3-4f~Signature=ASgJGVBsqB5HWgjiscc8774B_HIwUiDu54EBcRA2TIz4QezLtFlr5u2-TqxigeOMFHE2tQtN_qnPohw4KORLkhn9IL4J"
+          },
+          "cookie": "hdntl=Expires=1792911483~_GO=Generated~acl=/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_08a25fa0-82e3-4f~Signature=ASgJGVBsqB5HWgjiscc8774B_HIwUiDu54EBcRA2TIz4QezLtFlr5u2-TqxigeOMFHE2tQtN_qnPohw4KORLkhn9IL4J",
+          "expires": "1792911483",
+          "expire_date": ""
+        }
+      },
+      "headers": {
+        "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "Referer": "https://fancode.com/"
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Mozambique Vs Uganda",
+      "tournament": "Cricket",
+      "match_id": "4249763",
+      "status": "LIVE",
+      "startTime": "",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249763_53093_UGA_MOZ_FC-Web_1792493252645.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://dai-fancode.pages.dev/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-plive.fancode.com/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/240p.m3u8?hdntl=Expires=1792916344~_GO=Generated~acl=/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_f7a83e0a-ddc4-4c~Signature=ASgJGVB-SZ4grBbzaqohkouJHzA1tQagoMZ2-4yqaFX6pnVmMFQowFWB11tdHk6pgIvB55YAnTXyopgJCLVKNn3pcMsA",
+            "360p": "https://in-mc-plive.fancode.com/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/360p.m3u8?hdntl=Expires=1792916344~_GO=Generated~acl=/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_f7a83e0a-ddc4-4c~Signature=ASgJGVB-SZ4grBbzaqohkouJHzA1tQagoMZ2-4yqaFX6pnVmMFQowFWB11tdHk6pgIvB55YAnTXyopgJCLVKNn3pcMsA",
+            "480p": "https://in-mc-plive.fancode.com/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/480p.m3u8?hdntl=Expires=1792916344~_GO=Generated~acl=/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_f7a83e0a-ddc4-4c~Signature=ASgJGVB-SZ4grBbzaqohkouJHzA1tQagoMZ2-4yqaFX6pnVmMFQowFWB11tdHk6pgIvB55YAnTXyopgJCLVKNn3pcMsA",
+            "540p": "https://in-mc-plive.fancode.com/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/540p.m3u8?hdntl=Expires=1792916344~_GO=Generated~acl=/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_f7a83e0a-ddc4-4c~Signature=ASgJGVB-SZ4grBbzaqohkouJHzA1tQagoMZ2-4yqaFX6pnVmMFQowFWB11tdHk6pgIvB55YAnTXyopgJCLVKNn3pcMsA",
+            "720p": "https://in-mc-plive.fancode.com/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/720p.m3u8?hdntl=Expires=1792916344~_GO=Generated~acl=/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_f7a83e0a-ddc4-4c~Signature=ASgJGVB-SZ4grBbzaqohkouJHzA1tQagoMZ2-4yqaFX6pnVmMFQowFWB11tdHk6pgIvB55YAnTXyopgJCLVKNn3pcMsA",
+            "1080p": "https://in-mc-plive.fancode.com/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792916344~_GO=Generated~acl=/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_f7a83e0a-ddc4-4c~Signature=ASgJGVB-SZ4grBbzaqohkouJHzA1tQagoMZ2-4yqaFX6pnVmMFQowFWB11tdHk6pgIvB55YAnTXyopgJCLVKNn3pcMsA"
+          },
+          "cookie": "hdntl=Expires=1792916344~_GO=Generated~acl=/mumbai/4249763_english_hls_77fe3d2b7540495_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_f7a83e0a-ddc4-4c~Signature=ASgJGVB-SZ4grBbzaqohkouJHzA1tQagoMZ2-4yqaFX6pnVmMFQowFWB11tdHk6pgIvB55YAnTXyopgJCLVKNn3pcMsA",
+          "expires": "1792916344",
+          "expire_date": ""
+        }
+      },
+      "headers": {
+        "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "Referer": "https://fancode.com/"
+      }
+    },
+    {
+      "category": "Badminton",
+      "title": "Semi Finals",
+      "tournament": "Badminton",
+      "match_id": "4250158",
+      "status": "LIVE",
+      "startTime": "",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://dai-fancode.pages.dev/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-plive.fancode.com/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/240p.m3u8?hdntl=Expires=1792912745~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_e4936ec9-3c30-49~Signature=ASgJGVBt8SjEKIx79PXZYcZB6SbASeC5pHJQMtk3saKpQ1JDPKFfnlHEAs2Qx9Wjvyujowoe5R0tLH7qxPFeaKplqeEH",
+            "360p": "https://in-mc-plive.fancode.com/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/360p.m3u8?hdntl=Expires=1792912745~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_e4936ec9-3c30-49~Signature=ASgJGVBt8SjEKIx79PXZYcZB6SbASeC5pHJQMtk3saKpQ1JDPKFfnlHEAs2Qx9Wjvyujowoe5R0tLH7qxPFeaKplqeEH",
+            "480p": "https://in-mc-plive.fancode.com/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/480p.m3u8?hdntl=Expires=1792912745~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_e4936ec9-3c30-49~Signature=ASgJGVBt8SjEKIx79PXZYcZB6SbASeC5pHJQMtk3saKpQ1JDPKFfnlHEAs2Qx9Wjvyujowoe5R0tLH7qxPFeaKplqeEH",
+            "540p": "https://in-mc-plive.fancode.com/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/540p.m3u8?hdntl=Expires=1792912745~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_e4936ec9-3c30-49~Signature=ASgJGVBt8SjEKIx79PXZYcZB6SbASeC5pHJQMtk3saKpQ1JDPKFfnlHEAs2Qx9Wjvyujowoe5R0tLH7qxPFeaKplqeEH",
+            "720p": "https://in-mc-plive.fancode.com/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/720p.m3u8?hdntl=Expires=1792912745~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_e4936ec9-3c30-49~Signature=ASgJGVBt8SjEKIx79PXZYcZB6SbASeC5pHJQMtk3saKpQ1JDPKFfnlHEAs2Qx9Wjvyujowoe5R0tLH7qxPFeaKplqeEH",
+            "1080p": "https://in-mc-plive.fancode.com/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792912745~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_e4936ec9-3c30-49~Signature=ASgJGVBt8SjEKIx79PXZYcZB6SbASeC5pHJQMtk3saKpQ1JDPKFfnlHEAs2Qx9Wjvyujowoe5R0tLH7qxPFeaKplqeEH"
+          },
+          "cookie": "hdntl=Expires=1792912745~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_e4936ec9-3c30-49~Signature=ASgJGVBt8SjEKIx79PXZYcZB6SbASeC5pHJQMtk3saKpQ1JDPKFfnlHEAs2Qx9Wjvyujowoe5R0tLH7qxPFeaKplqeEH",
+          "expires": "1792912745",
+          "expire_date": ""
+        }
+      },
+      "headers": {
+        "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "Referer": "https://fancode.com/"
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Melbourne Victory Vs Melbourne City",
+      "tournament": "Football",
+      "match_id": "4249843",
+      "status": "LIVE",
+      "startTime": "",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249843_53101_MLV_MLC_fc-Web_1792223292104.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://dai-fancode.pages.dev/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-plive.fancode.com/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/240p.m3u8?hdntl=Expires=1792916764~_GO=Generated~acl=/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_58c1299c-2833-48~Signature=ASgJGVBb4_efCM2UxIbdt51Qxpwp7nGbu2-1ucVHVnSzZ0SPXPtW5XxRbjTWXhGiu1wuriADzI-7rzCIsDitU09heDkO",
+            "360p": "https://in-mc-plive.fancode.com/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/360p.m3u8?hdntl=Expires=1792916764~_GO=Generated~acl=/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_58c1299c-2833-48~Signature=ASgJGVBb4_efCM2UxIbdt51Qxpwp7nGbu2-1ucVHVnSzZ0SPXPtW5XxRbjTWXhGiu1wuriADzI-7rzCIsDitU09heDkO",
+            "480p": "https://in-mc-plive.fancode.com/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/480p.m3u8?hdntl=Expires=1792916764~_GO=Generated~acl=/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_58c1299c-2833-48~Signature=ASgJGVBb4_efCM2UxIbdt51Qxpwp7nGbu2-1ucVHVnSzZ0SPXPtW5XxRbjTWXhGiu1wuriADzI-7rzCIsDitU09heDkO",
+            "540p": "https://in-mc-plive.fancode.com/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/540p.m3u8?hdntl=Expires=1792916764~_GO=Generated~acl=/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_58c1299c-2833-48~Signature=ASgJGVBb4_efCM2UxIbdt51Qxpwp7nGbu2-1ucVHVnSzZ0SPXPtW5XxRbjTWXhGiu1wuriADzI-7rzCIsDitU09heDkO",
+            "720p": "https://in-mc-plive.fancode.com/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/720p.m3u8?hdntl=Expires=1792916764~_GO=Generated~acl=/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_58c1299c-2833-48~Signature=ASgJGVBb4_efCM2UxIbdt51Qxpwp7nGbu2-1ucVHVnSzZ0SPXPtW5XxRbjTWXhGiu1wuriADzI-7rzCIsDitU09heDkO",
+            "1080p": "https://in-mc-plive.fancode.com/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792916764~_GO=Generated~acl=/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_58c1299c-2833-48~Signature=ASgJGVBb4_efCM2UxIbdt51Qxpwp7nGbu2-1ucVHVnSzZ0SPXPtW5XxRbjTWXhGiu1wuriADzI-7rzCIsDitU09heDkO"
+          },
+          "cookie": "hdntl=Expires=1792916764~_GO=Generated~acl=/mumbai/4249843_english_hls_e915c1c41d32510_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_58c1299c-2833-48~Signature=ASgJGVBb4_efCM2UxIbdt51Qxpwp7nGbu2-1ucVHVnSzZ0SPXPtW5XxRbjTWXhGiu1wuriADzI-7rzCIsDitU09heDkO",
+          "expires": "1792916764",
+          "expire_date": ""
+        }
+      },
+      "headers": {
+        "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "Referer": "https://fancode.com/"
+      }
+    }
+  ]
+}
